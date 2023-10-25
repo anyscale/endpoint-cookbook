@@ -19,4 +19,4 @@
 |--|--|--|
 |App_AutoGen|Basic demo for Autogen|[AutoGen](https://github.com/microsoft/autogen)|
 |App_RAG_Fusion|Demo for RAG-Fusion|[RAG-Fusion](https://github.com/Raudaschl/rag-fusion)|
-
+|App_AgentTune| Finetune with AgentInstruct Dataset|[AgentTune](https://thudm.github.io/AgentTuning/)|

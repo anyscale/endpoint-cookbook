@@ -118,7 +118,7 @@ if __name__ == '__main__':
     args = parse_args()
     print(args)
     task = get_task(args.task, args.task_split)
-    os.environ["OPENAI_API_KEY"]="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"
+    os.environ["OPENAI_API_KEY"]="OPENAI_API_KEY"
     modelname = args.backend
     if args.backend == 'llama':
         pathname = args.peftpath.replace('/', '_') if args.add_lora else args.modelpath.replace('/', '_')

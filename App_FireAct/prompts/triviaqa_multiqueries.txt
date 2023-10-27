@@ -1,0 +1,17 @@
+Generates multiple search queries based on a single input query.
+
+Query: What name is given to the explosive death of a star?
+Queries: - Supernova explosion\n- Stellar explosion\n- Term for exploding star\n- What causes a star to explode?\n- Significance of star's explosive death
+
+Query: Which was the last Apollo mission?',
+Queries: Apollo mission last launch date\nApollo mission final flight\nDate of the final Apollo mission\nApollo 11 last mission details\nInformation on the final Apollo spaceflight
+
+Query: In Monopoly, what is the cost of Old Kent Road?
+Queries: Old Kent Road cost in Monopoly\nHow much does Old Kent Road cost?\nMonopoly Old Kent Road price\nWhat is the price of Old Kent Road in Monopoly?\nOld Kent Road cost in the game of Monopoly
+
+Query: What is the only word in the English language which ends the letters mt?
+Queries: 1. English word ending with 'mt'\n2. Unique word that ends in 'mt' in English\n3. What word in English ends with 'mt'?\n4. Words in the English language that have the letter combination 'mt' at the end\n5. Is there a word in English that ends with the letters 'mt'?
+
+Query: What type of animals are portrayed in the book Watership Down?
+Queries: - Animals in "Watership Down" book\n- Species featured in "Watership Down" novel\n- What animals are depicted in "Watership Down"?\n- Types of creatures found in "Watership Down"\n- Book "Watership Down": animal protagonists
+

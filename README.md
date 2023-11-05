@@ -13,6 +13,7 @@
 |Integration_Arize|Arize integration|[blog](https://arize.com/blog/anyscale-endpoints-code-along/)|
 |Integration_Weave|Weight & Bias Integration|-|
 |Integration_llamaindex|LlamaIndex Integartion|[LlamaIndex docs](https://gpt-index.readthedocs.io/en/latest/examples/llm/anyscale.html)|
+|Integration_LiteLLM|LiteLLM Integration|[LiteLLM](https://docs.litellm.ai/docs/providers/anyscale)|
 
 ## Applications built with AE
 | Cookbook Name | Brief Intro | References |

@@ -14,6 +14,7 @@
 |Integration_Weave|Weight & Bias Integration|-|
 |Integration_llamaindex|LlamaIndex Integartion|[LlamaIndex docs](https://gpt-index.readthedocs.io/en/latest/examples/llm/anyscale.html)|
 |Integration_LiteLLM|LiteLLM Integration|[LiteLLM](https://docs.litellm.ai/docs/providers/anyscale)|
+|Integration_Canopy|Pinecone Integration|[Canopy](https://github.com/pinecone-io/canopy)|
 
 ## Applications built with AE
 | Cookbook Name | Brief Intro | References |

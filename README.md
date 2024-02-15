@@ -3,9 +3,11 @@
 ## Basic Usage
 | Cookbook Name | Brief Intro | References |
 |--|--|--|
-| combine_anyscale_openai | Use AE with OpenAI API|-| 
-| streaming_chatbot| Building a streaming chatbot |-|
-|streaming_chatbot_langchain|Building a streaming chatbot with LangChain|[LangChain docs](https://python.langchain.com/docs/integrations/chat/anyscale)|
+| Basic_combine_anyscale_openai | Use AE with OpenAI API|-| 
+| Basic_streaming_chatbot| Building a streaming chatbot |-|
+| Basic_streaming_chatbot_langchain|Building a streaming chatbot with LangChain|[LangChain docs](https://python.langchain.com/docs/integrations/chat/anyscale)|
+| Basic_Llama_guard | Llama Guard Demo|[Link](https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/)|
+| Basic_function_calling | Function calling Demo|[Blog](https://www.anyscale.com/blog/anyscale-endpoints-json-mode-function-calling-new-models-llama-guard-and-mistral-7b-openorca)|
 
 ## LLM Tools Integration
 | Cookbook Name | Brief Intro | References |

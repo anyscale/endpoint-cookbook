@@ -18,6 +18,7 @@
 |Integration_LiteLLM|LiteLLM Integration|[LiteLLM](https://docs.litellm.ai/docs/providers/anyscale)|
 |Integration_Canopy|Pinecone Integration|[Canopy](https://github.com/pinecone-io/canopy)|
 |Integration_MongoDB|MongoDB Integration|[Atlas](https://www.mongodb.com/products/platform/atlas-vector-search)|
+|Integration_MindsDB|MindsDB Integration|[Documentation](https://docs.mindsdb.com/integrations/ai-engines/anyscale)|
 
 ## Applications built with AE
 | Cookbook Name | Brief Intro | References |

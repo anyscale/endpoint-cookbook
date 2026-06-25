@@ -1,3 +1,5 @@
+> ⚠️ This repository is no longer maintained. Anyscale Endpoints has been discontinued. For current LLM serving, see Ray Serve LLM: https://docs.ray.io/en/latest/serve/llm/index.html
+
 # Collection of Cookbooks for AE (Anyscale Endpoint)
 
 ## Basic Usage
